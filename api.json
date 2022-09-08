@@ -11,6 +11,7 @@
     "name": "University of Rajshahi",
     "website": "www.ru.ac.bd",
     "location": "Rajshahi",
+    "map": "https://goo.gl/maps/ohK3qVabD3jqzaHQ6",
     "img": "https://pplika.com/wp-content/uploads/2018/12/%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BF.jpg"
   },
   {
@@ -18,6 +19,7 @@
     "name": "Bangladesh Agricultural University",
     "website": "www.bau.edu.bd",
     "location": "Mymensingh",
+    "map": "https://goo.gl/maps/ygqRrj3pSQa2iAkb6",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bangladesh_Agricultural_University_%28BAU%29.jpg"
   },
   {
@@ -25,6 +27,7 @@
     "name": "Bangladesh University of Engineering & Technology",
     "website": "www.buet.ac.bd",
     "location": "Dhaka",
+    "map": "https://goo.gl/maps/usGogxbhdgiUbZ9v5",
     "img": "https://i0.wp.com/www.buet.ac.bd/info/Content/Building/20.JPG?resize=650,400"
   },
   {
@@ -32,6 +35,7 @@
     "name": "University of Chittagong",
     "website": "www.cu.ac.bd",
     "location": "Chittagong",
+    "map": "https://goo.gl/maps/rCtoUE4nvVrTRQeR6",
     "img": "https://images.shiksha.com/mediadata/images/1598002619phpXDOaiQ.png"
   }
 ]
