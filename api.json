@@ -42,5 +42,14 @@
     "map": "https://goo.gl/maps/rCtoUE4nvVrTRQeR6",
     "img": "https://images.shiksha.com/mediadata/images/1598002619phpXDOaiQ.png",
     "SemesterFee": "450 taka"
+  },
+  {
+    "id": 6,
+    "name": "Jahangirnagar University",
+    "website": "www.juniv.edu",
+    "location": "Dhaka",
+    "map": "https://goo.gl/maps/osqc6ms6kEAKMpD27",
+    "img": "https://i0.wp.com/edunews.com.bd/wp-content/uploads/2022/04/jut.jpg?fit=2048%2C1323&ssl=1",
+    "SemesterFee": "700 taka"
   }
 ]
