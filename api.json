@@ -51,5 +51,77 @@
     "map": "https://goo.gl/maps/osqc6ms6kEAKMpD27",
     "img": "https://i0.wp.com/edunews.com.bd/wp-content/uploads/2022/04/jut.jpg?fit=2048%2C1323&ssl=1",
     "SemesterFee": "700 taka"
+  },
+  {
+    "id": 7,
+    "name": "Islamic University, Bangladesh",
+    "website": "www.iu.ac.bd",
+    "location": "Kushtia",
+    "map": "https://goo.gl/maps/dFWmeAya2E95zNvG7",
+    "img": "https://urquery.com/storage/2021/05/IU-Administrative-Building.jpg",
+    "SemesterFee": "300 taka"
+  },
+  {
+    "id": 8,
+    "name": "Shahjalal University of Science & Technology",
+    "website": "www.sust.edu",
+    "location": "Sylhet",
+    "map": "https://goo.gl/maps/tNvdBxX5wumhJVjq5",
+    "img": "https://bdsearcher.com/wp-content/uploads/2018/09/Shahjalal-University-of-Science-and-Technology-Admission.jpg",
+    "SemesterFee": "200 taka"
+  },
+  {
+    "id": 9,
+    "name": "Khulna University",
+    "website": "www.ku.ac.bd",
+    "location": "Khulna",
+    "map": "https://goo.gl/maps/C32CmAiokeC2vsY5A",
+    "img": "https://ku.ac.bd/uploads/ku1.jpg",
+    "SemesterFee": "600 taka"
+  },
+  {
+    "id": 10,
+    "name": "National University",
+    "website": "www.nu.edu.bd",
+    "location": "Dhaka",
+    "map": "https://goo.gl/maps/P3PuuYrtPi7ZYn8g8",
+    "img": "https://prod-media-eng.dhakatribune.com/uploads/2019/11/web-national-university-1556867217374-1573754592816.jpg",
+    "SemesterFee": "800 taka"
+  },
+  {
+    "id": 11,
+    "name": "Bangabandhu Sheikh Mujib Medical University",
+    "website": "www.bsmmu.edu.bd",
+    "location": "Dhaka",
+    "map": "https://goo.gl/maps/VF98Z3zHZraw64wz7",
+    "img": "https://wp.bssnews.net/wp-content/uploads/2018/02/Shahbag_BSMMU_Hospital_3.jpg",
+    "SemesterFee": "1200 taka"
+  },
+  {
+    "id": 12,
+    "name": "Bangabandhu Sheikh Mujibur Rahman Agricultural University",
+    "website": "www.bsmrau.edu.bd",
+    "location": "Gazipur",
+    "map": "https://goo.gl/maps/b8ptcs8KiHu3ZGeG8",
+    "img": "https://media-exp1.licdn.com/dms/image/C4E1BAQEzhMpHO6ra9g/company-background_10000/0/1590313775757?e=2147483647&v=beta&t=bpiqle7xWQBCWv4WFX9Y5D9s_IRqoTVlJ_P3plOESdQ",
+    "SemesterFee": "800 taka"
+  },
+  {
+    "id": 13,
+    "name": "Hajee Mohammad Danesh Science & Technology University",
+    "website": "www.hstu.ac.bd",
+    "location": "Dinajpur",
+    "map": "https://goo.gl/maps/MFf3NKmPjmcpR1mN6",
+    "img": "https://totalinfobd.com/wp-content/uploads/2019/09/Hajee-Danesh-Cover-pic.jpg",
+    "SemesterFee": "1500 taka"
+  },
+  {
+    "id": 14,
+    "name": "Mawlana Bhashani Science & Technology University",
+    "website": "www.mbstu.ac.bd",
+    "location": "Tangail",
+    "map": "https://goo.gl/maps/towr3bqk6GNvfc5w6",
+    "img": "https://ict.mbstu.ac.bd/assets/images/slider/slide1.jpg",
+    "SemesterFee": "1900 taka"
   }
 ]
