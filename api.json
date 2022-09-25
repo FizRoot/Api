@@ -6,7 +6,8 @@
     "location": "Dhaka",
     "map": "https://goo.gl/maps/ohK3qVabD3jqzaHQ6",
     "img": "https://media.istockphoto.com/photos/bangladesh-dhaka-picture-id620981310?k=20&m=620981310&s=612x612&w=0&h=z7ofjMwc2wqjX37XTQw0zvuat-PuXgQFDHzDIlMvjmY=",
-    "SemesterFee": "800 taka"
+    "SemesterFee": "800 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "location": "Rajshahi",
     "map": "https://goo.gl/maps/tAtsNYaRYrsstGym7",
     "img": "https://pplika.com/wp-content/uploads/2018/12/%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BF.jpg",
-    "SemesterFee": "700 taka"
+    "SemesterFee": "700 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "location": "Mymensingh",
     "map": "https://goo.gl/maps/ygqRrj3pSQa2iAkb6",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bangladesh_Agricultural_University_%28BAU%29.jpg",
-    "SemesterFee": "600 taka"
+    "SemesterFee": "600 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "location": "Dhaka",
     "map": "https://goo.gl/maps/usGogxbhdgiUbZ9v5",
     "img": "https://i0.wp.com/www.buet.ac.bd/info/Content/Building/20.JPG?resize=650,400",
-    "SemesterFee": "1200 taka"
+    "SemesterFee": "1200 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "location": "Chittagong",
     "map": "https://goo.gl/maps/rCtoUE4nvVrTRQeR6",
     "img": "https://images.shiksha.com/mediadata/images/1598002619phpXDOaiQ.png",
-    "SemesterFee": "450 taka"
+    "SemesterFee": "450 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "location": "Dhaka",
     "map": "https://goo.gl/maps/osqc6ms6kEAKMpD27",
     "img": "https://i0.wp.com/edunews.com.bd/wp-content/uploads/2022/04/jut.jpg?fit=2048%2C1323&ssl=1",
-    "SemesterFee": "700 taka"
+    "SemesterFee": "700 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "location": "Kushtia",
     "map": "https://goo.gl/maps/dFWmeAya2E95zNvG7",
     "img": "https://urquery.com/storage/2021/05/IU-Administrative-Building.jpg",
-    "SemesterFee": "300 taka"
+    "SemesterFee": "300 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "location": "Sylhet",
     "map": "https://goo.gl/maps/tNvdBxX5wumhJVjq5",
     "img": "https://bdsearcher.com/wp-content/uploads/2018/09/Shahjalal-University-of-Science-and-Technology-Admission.jpg",
-    "SemesterFee": "200 taka"
+    "SemesterFee": "200 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "location": "Khulna",
     "map": "https://goo.gl/maps/C32CmAiokeC2vsY5A",
     "img": "https://ku.ac.bd/uploads/ku1.jpg",
-    "SemesterFee": "600 taka"
+    "SemesterFee": "600 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "location": "Dhaka",
     "map": "https://goo.gl/maps/P3PuuYrtPi7ZYn8g8",
     "img": "https://prod-media-eng.dhakatribune.com/uploads/2019/11/web-national-university-1556867217374-1573754592816.jpg",
-    "SemesterFee": "800 taka"
+    "SemesterFee": "800 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "location": "Dhaka",
     "map": "https://goo.gl/maps/VF98Z3zHZraw64wz7",
     "img": "https://wp.bssnews.net/wp-content/uploads/2018/02/Shahbag_BSMMU_Hospital_3.jpg",
-    "SemesterFee": "1200 taka"
+    "SemesterFee": "1200 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "location": "Gazipur",
     "map": "https://goo.gl/maps/b8ptcs8KiHu3ZGeG8",
     "img": "https://media-exp1.licdn.com/dms/image/C4E1BAQEzhMpHO6ra9g/company-background_10000/0/1590313775757?e=2147483647&v=beta&t=bpiqle7xWQBCWv4WFX9Y5D9s_IRqoTVlJ_P3plOESdQ",
-    "SemesterFee": "800 taka"
+    "SemesterFee": "800 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "location": "Dinajpur",
     "map": "https://goo.gl/maps/MFf3NKmPjmcpR1mN6",
     "img": "https://totalinfobd.com/wp-content/uploads/2019/09/Hajee-Danesh-Cover-pic.jpg",
-    "SemesterFee": "1500 taka"
+    "SemesterFee": "1500 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   },
   {
     "id": 14,
@@ -123,6 +136,7 @@
     "location": "Tangail",
     "map": "https://goo.gl/maps/towr3bqk6GNvfc5w6",
     "img": "https://ict.mbstu.ac.bd/assets/images/slider/slide1.jpg",
-    "SemesterFee": "1900 taka"
+    "SemesterFee": "1900 taka",
+    "course": "CSE,EEE,BArch,LL.B,English,Accounting,Mathematics,Pharmacy,Sociology,Marketing,Finance"
   }
 ]
